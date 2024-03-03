@@ -1,0 +1,14 @@
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/bin/Debug/net8.0/LeetCodeSolutions
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/bin/Debug/net8.0/LeetCodeSolutions.deps.json
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/bin/Debug/net8.0/LeetCodeSolutions.runtimeconfig.json
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/bin/Debug/net8.0/LeetCodeSolutions.dll
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/bin/Debug/net8.0/LeetCodeSolutions.pdb
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.AssemblyInfoInputs.cache
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.AssemblyInfo.cs
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.csproj.CoreCompileInputs.cache
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.dll
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/refint/LeetCodeSolutions.dll
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.pdb
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.genruntimeconfig.cache
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/ref/LeetCodeSolutions.dll
