@@ -12,3 +12,4 @@
 /Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.pdb
 /Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.genruntimeconfig.cache
 /Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/ref/LeetCodeSolutions.dll
+/Users/umuteskitoglu/RiderProjects/LeetCodeSolutions/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.sourcelink.json

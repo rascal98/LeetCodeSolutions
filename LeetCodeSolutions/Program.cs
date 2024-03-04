@@ -3,5 +3,5 @@
 using LeetCodeSolutions;
 
 Console.WriteLine("Hello World");
-RemoveDuplicatesFromSortedArray testRemoveDuplicatesFromSortedArray=new RemoveDuplicatesFromSortedArray();
-testRemoveDuplicatesFromSortedArray.Test();
+RemoveElement test=new();
+test.Test();
