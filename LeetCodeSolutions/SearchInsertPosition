@@ -1,0 +1,19 @@
+namespace LeetCodeSolutions;
+//Leetcode 35.Search Index Position
+/// <summary>
+/// Add target to array. Sort the array and find first index of the target.
+/// </summary>
+public class SearchInsertPosition {
+    public int SearchInsert(int[] nums, int target) {
+        Array.Resize(ref nums, nums.Length + 1);
+        nums[nums.Length-1]=target;
+        Array.Sort(nums);
+        for(int i=0;i<nums.Length;i++){
+            if(nums[i]==target){
+                return i;
+            }
+            
+        }
+        return -1;
+    }
+}
